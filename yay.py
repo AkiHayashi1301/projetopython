@@ -28,3 +28,10 @@ else:
     time.sleep(tempo)
     print("Try another number")
 
+''' Congratulations! It looks really cool! 
+A small detail in this file is 
+that it was missing to create the function
+and then call it.
+'''
+
+
